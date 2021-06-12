@@ -78,7 +78,7 @@ $headers = 'From: '.$email_from."\r\n".
 <!-- include your own success html here -->
 
 <?php
-$url='';
+$url='https://vikas1995.github.io/mail/index.html';
 
     echo '<script>window.location = "'.$url.'";</script>';
     die;
